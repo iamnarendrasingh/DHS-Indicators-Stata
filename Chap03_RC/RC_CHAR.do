@@ -489,6 +489,8 @@ replace rc_tobc_anysmkless=1 if rc_tobc_osmkless==1
 label values rc_tobc_anysmkless yesno
 label var rc_tobc_anysmkless "Uses any type of smokeless tobacco"
 
+
+
 //Any tobacco 
 gen rc_tobc_any= inlist(mv463aa,1,2) | inlist(mv463ab,1,2)
 label values rc_tobc_any yesno

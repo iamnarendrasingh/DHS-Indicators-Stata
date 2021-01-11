@@ -5,7 +5,7 @@
 
 This project is aimed at providing Stata and SPSS code for all DHS Program indicators listed in the Guide to DHS Statistics. The project began in 2019 and will run for two years. By September 2020, all code in Stata and SPSS will be available for the public. The code will be published on the [DHS Program Github site] (https://github.com/DHSProgram) which contains two repositories: DHS-Indicators-Stata and DHS-Indicators-SPSS. Users can download the code from these repositories or clone the repository to their own Github site. Users can also suggest changes to the code that will be reviewed by DHS Program staff before acceptance. 
 
-[The Guide to DHS Statistics] (https://www.dhsprogram.com/Data/Guide-to-DHS-Statistics/index.cfm) contains 17 Chapters. Chapters 2-17 cover the chapters that would be found in a DHS final report assuming all the key modules were included in a survey. These chapters also cover DHS modules for Malaria and HIV Prevalence, as well as those not part of the core questionnaires. Chapter one is an introduction that does not require code. 
+[The Guide to DHS Statistics] (https://www.dhsprogram.com/Data/Guide-to-DHS-Statistics/index.cfm) contains 17 Chapters.
 
 
 The Guide defines an indicator, names the pertinent variables, and explains how the indicator is computed. The DHS Program Code Share Project follows the instructions in the guide required to produce the indicators. 
